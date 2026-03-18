@@ -536,10 +536,10 @@
 				},
 				"tavern" : {
 					"cost" : {
-						"gold": 1000,
+						"gold" : 1000,
 						"wood" : 5,
-						"ore": 5,
-						"crystal": 2
+						"ore" : 5,
+						"crystal" : 2
 					},
 					"description" : "The Tavern increases morale for troops defending the city.",
 					"name" : "Tavern"
